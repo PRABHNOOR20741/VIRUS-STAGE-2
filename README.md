@@ -1,2 +1,2 @@
-# VIRUS-STAGE-2
-Today we made the core of the game 
+# p5.play-boilerplate
+Boiler plate for p5.play
